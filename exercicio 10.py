@@ -17,5 +17,5 @@ elif option==2:
     fahrenheit_celsius = (temperatura-32)*5/9
     print(f'A conversão solicitada é de {fahrenheit_celsius:.1f} graus Celsius')
 else:
-    print(f'Você escolheu a opção errada! Não haverá conversão. Você deve escolher entre a opção 1 (celsius) ou 2(fahrenheit)!')
+    print(f'Você escolheu a opção errada! Não haverá conversão. Você deve escolher entre a opção 1 (celsius) ou 2 (fahrenheit)!')
 
